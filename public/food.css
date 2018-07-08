@@ -1,0 +1,22 @@
+body{
+  color: white;
+  margin:0 auto;
+  text-align: center;
+  background:lightgreen;
+}
+
+.thankyou{
+display:none;
+}
+
+#foodImg{
+  display:block;
+  margin:0 auto;
+  width:40%;
+  border: 30px solid #795548;
+}
+
+.meals,#country{
+  list-style: none;
+  padding-left: 0;
+}
